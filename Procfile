@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -jar target/heroku-demo-0.0.1-SNAPSHOT.jar -Dserver.port=$PORT
+web: java -jar target/SpringTest-0.0.1-SNAPSHOT.jar
